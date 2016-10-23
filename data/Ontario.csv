@@ -65,7 +65,6 @@ date,city,province,hair_color,laughing,height
 2016-10-17,Mississauga,Ontario,blue,0,159
 2016-10-25,Mississauga,Ontario,green,1,159
 2016-10-15,Mississauga,Ontario,white,1,171
-date,city,province,hair_color,laughing,height
 2016-10-09,North York,Ontario,red,1,192
 2016-10-07,North York,Ontario,red,0,168
 2016-10-14,North York,Ontario,yellow,1,195
@@ -129,7 +128,6 @@ date,city,province,hair_color,laughing,height
 2016-10-05,North York,Ontario,green,0,162
 2016-10-25,North York,Ontario,white,1,163
 2016-10-12,North York,Ontario,blue,1,194
-date,city,province,hair_color,laughing,height
 2016-10-26,Ottawa,Ontario,green,0,197
 2016-10-27,Ottawa,Ontario,green,0,192
 2016-10-14,Ottawa,Ontario,yellow,1,166
@@ -211,7 +209,6 @@ date,city,province,hair_color,laughing,height
 2016-10-12,Ottawa,Ontario,white,0,151
 2016-10-22,Ottawa,Ontario,white,1,170
 2016-10-12,Ottawa,Ontario,yellow,1,160
-date,city,province,hair_color,laughing,height
 2016-10-06,Scarborough,Ontario,red,1,158
 2016-10-22,Scarborough,Ontario,blue,1,168
 2016-10-04,Scarborough,Ontario,yellow,1,182
@@ -272,7 +269,6 @@ date,city,province,hair_color,laughing,height
 2016-10-31,Scarborough,Ontario,blue,1,193
 2016-10-22,Scarborough,Ontario,green,0,158
 2016-10-01,Scarborough,Ontario,red,0,196
-date,city,province,hair_color,laughing,height
 2016-10-16,Toronto,Ontario,white,1,190
 2016-10-14,Toronto,Ontario,blue,1,175
 2016-10-17,Toronto,Ontario,blue,0,191
